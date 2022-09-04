@@ -4,3 +4,9 @@
   padding: 2rem;
   text-align: center;
 }
+
+input,
+button {
+  padding: 1%;
+  margin: 5px;
+}
